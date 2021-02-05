@@ -2,41 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e878e7ee-3b11-413e-8487-93a47ff0a155" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/html_1/assets/images/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_1/assets/images/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_1/assets/images/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_1/assets/images/04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_1/assets/images/05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_1/assets/images/06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_1/assets/images/07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_1/assets/images/08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_1/assets/images/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_1/assets/images/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_1/assets/images/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_1/assets/images/13.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_1/assets/images/234.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_1/assets/images/A.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_1/assets/images/Jack Sax.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_1/assets/images/Jack-Sax-2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_1/assets/images/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_1/assets/images/kome.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_1/assets/images/rating.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_2/assets/images/06.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_2/assets/images/08-2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_2/assets/images/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_2/assets/images/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_2/assets/images/14.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_2/assets/images/16.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_2/assets/images/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_2/assets/images/234.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_2/assets/images/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_2/assets/images/46.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_2/assets/images/49.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_2/assets/images/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_2/assets/images/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_2/assets/images/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_2/assets/images/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_2/assets/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_1/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_1/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_2/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_2/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,11 +39,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612493898795</updated>
-      <workItem from="1612493900062" duration="1638000" />
+      <workItem from="1612493900062" duration="2909000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="593" y="104" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1612499304244">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="593" y="104" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1612499304244" />
   </component>
 </project>
