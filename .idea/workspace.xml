@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e878e7ee-3b11-413e-8487-93a47ff0a155" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html_1/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_1/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html_2/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/html_2/assets/css/style.css" afterDir="false" />
+=======
+    <list default="true" id="c56448c8-392a-43a0-b2ae-6b4e6563b067" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_1/index.html" afterDir="false" />
+>>>>>>> 722954ce75112f90db9d7cab81f8a1714b63b143
       <change beforePath="$PROJECT_DIR$/html_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,30 +22,95 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1o2o9wsKM1qEbxhYtFqCTSwuXXZ" />
+  <component name="ProjectId" id="1kMVsWLDyreXfcjrHdMhxlFR42O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/female" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\html\female" />
+      <recent name="Z:\html\uka_html\images" />
+      <recent name="Z:\html\uka_html" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\html\uka\assets" />
+      <recent name="Z:\html\female\assets\css" />
+      <recent name="Z:\html\female\assets" />
+      <recent name="Z:\html\uka\images" />
+      <recent name="Z:\html\uka\sp" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e878e7ee-3b11-413e-8487-93a47ff0a155" name="Default Changelist" comment="" />
-      <created>1612493898795</created>
+      <changelist id="c56448c8-392a-43a0-b2ae-6b4e6563b067" name="Default Changelist" comment="" />
+      <created>1605510654887</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1612493898795</updated>
       <workItem from="1612493900062" duration="2909000" />
+=======
+      <updated>1605510654887</updated>
+      <workItem from="1605510656009" duration="1246000" />
+      <workItem from="1605522882029" duration="636000" />
+      <workItem from="1605599144691" duration="1416000" />
+      <workItem from="1605613399661" duration="596000" />
+      <workItem from="1605752682526" duration="279000" />
+      <workItem from="1605839704390" duration="700000" />
+      <workItem from="1606097284833" duration="551000" />
+      <workItem from="1606208996195" duration="26000" />
+      <workItem from="1606314760546" duration="1213000" />
+      <workItem from="1606355340256" duration="1360000" />
+      <workItem from="1606362029114" duration="1484000" />
+      <workItem from="1606365088961" duration="80000" />
+      <workItem from="1606978288322" duration="3490000" />
+      <workItem from="1606982963722" duration="2053000" />
+      <workItem from="1607048207291" duration="1158000" />
+      <workItem from="1607049604137" duration="1456000" />
+      <workItem from="1607410734675" duration="6000" />
+      <workItem from="1608192231610" duration="6650000" />
+      <workItem from="1608252108995" duration="27118000" />
+      <workItem from="1608345566218" duration="8000" />
+      <workItem from="1608467897512" duration="147000" />
+      <workItem from="1609124597273" duration="2640000" />
+      <workItem from="1609174834392" duration="395000" />
+      <workItem from="1609312394916" duration="1288000" />
+      <workItem from="1609318332280" duration="5783000" />
+      <workItem from="1612424303361" duration="6941000" />
+>>>>>>> 722954ce75112f90db9d7cab81f8a1714b63b143
     </task>
     <servers />
   </component>
