@@ -1,0 +1,355 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100%;
+    height: auto;
+    vertical-align: bottom;
+}
+body{
+    font-family: '微軟正黑體, sans-serif';
+    line-height: 2em;
+    font-weight: 300;
+    font-size: 1.4em;
+    text-align: justify;
+    word-wrap:break-word;
+    background-image: url('../images/bg1.jpg');
+    background-repeat: repeat;
+    background-size: 3000px;
+}
+.clear{
+    clear: both;
+}
+.CP{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 1.5em 5em 0 5em;
+    background-color: white;
+    box-shadow: rgba(87, 60, 53, 0.281) 0px 0px 20px;
+}
+.CP hr{
+    border-top: black solid 2px;
+    margin: .3em 0;
+}
+#fv{
+    margin-bottom: 2em;
+    padding-top: 1.5em;
+}
+#content{
+    padding: 2em 0 1em 0;
+}
+#content p{
+    margin: 1em 0;
+}
+.part{
+    padding-bottom: 3em;
+}
+
+/* �𧋦����烾�磰身摰� */
+#title{
+    font-family: 'Noto Serif TC', serif;
+    font-size: 2.2em;
+    line-height: 1.5em;
+    letter-spacing: 0.1em;
+    text-align: center;
+    margin-bottom: .3em;
+    border-top: rgb(0, 144, 211) dashed 2px;
+    border-bottom: rgb(0, 144, 211) dashed 2px;
+    padding: 1em 0;
+    color:  rgb(0, 144, 211);
+}
+#date{
+    font-weight: 500;
+    font-size: .9em;
+}
+.txt_right{
+    text-align: right;
+}
+.headline1{
+    font-weight: 700;
+    font-size: 1.7em;
+    line-height: 1.5em;
+    letter-spacing: 0.1em;
+    text-align: left;
+}
+.headline2{
+    font-weight: 700;
+    font-size: 1.4em;
+    letter-spacing: 0.1em;
+}
+.headline3{
+    font-weight: 600;
+    font-size: 1.3em;
+    letter-spacing: 0.1em;
+    padding-bottom: .3em;
+    border-bottom: black solid 2px;
+    line-height: 1.5em;
+}
+.txt_yellow, .txt_green, .txt_highlight, .txt_bold{
+    font-weight: 500;
+}
+.txt_highlight{
+    background-color: rgb(255, 238, 142);
+}
+.txt_yellow{
+    color: rgb(221, 162, 0);
+}
+.txt_green{
+    color: rgb(64, 167, 38);
+}
+.txt_pink{
+    color:hotpink;
+}
+.txt_orange{
+    color:orange;
+}
+
+.grayText{
+    color: rgb(163, 163, 163);
+    font-size: .8em;
+}
+a{
+    color: rgb(253, 124, 18);
+    font-weight: 700;
+}
+a:hover{
+    color: rgb(255, 161, 83);
+}
+#last_link a{
+    font-size: 1.5em;
+    color: rgb(230, 168, 0);
+    line-height: 1.5em;
+}
+#last_link a:hover{
+    color: rgb(240, 186, 39);
+}
+.block{
+    text-decoration: none;
+}
+.link{
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#79d9f7+0,3e97e0+49,008be8+49,5bd3ff+100 */
+    background: rgb(121,217,247); /* Old browsers */
+    background: -moz-linear-gradient(-45deg,  rgba(121,217,247,1) 0%, rgba(62,151,224,1) 49%, rgba(0,139,232,1) 49%, rgba(91,211,255,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg,  rgba(121,217,247,1) 0%,rgba(62,151,224,1) 49%,rgba(0,139,232,1) 49%,rgba(91,211,255,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg,  rgba(121,217,247,1) 0%,rgba(62,151,224,1) 49%,rgba(0,139,232,1) 49%,rgba(91,211,255,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#79d9f7', endColorstr='#5bd3ff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+    color: white;
+    font-weight: 400;
+    font-size: 1.15em;
+    letter-spacing: 0.1em;
+    padding: 0.3em 1em;
+    margin: 1.5em 0;
+}
+a .link{
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+a .link:hover{
+    padding-left: 3em;
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+
+/* ========= ��躰��� ==========*/
+.comment{
+    margin-top: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    color: rgb(94, 94, 94);
+}
+.comTit{
+    font-weight: bolder;
+    font-size: 30pt;
+    border-bottom: 2px solid black;
+    color: black;
+    font-weight: 500;
+}
+.com{
+    width: 100%;
+    margin-top: 50px;
+}
+.qText{
+    border-bottom: 1px solid rgb(66, 66, 66) ;
+    border-bottom-style: dashed;
+    margin-bottom: 30px;
+}
+.ansText{
+    border-bottom: 1px solid rgb(66, 66, 66) ;
+    border-bottom-style: dashed;
+    margin-left: 50px;
+}
+
+.name{
+    color: rgb(102, 102, 102) ;
+    font-size: 20pt;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+.date{
+    color:rgb(255, 141, 34);
+    font-size: 12pt;
+    font-weight: 500;
+    padding-left: 10px;
+    /* border: 1px solid #000; */
+}
+
+.comFot{
+    margin-top: 30px;
+}
+
+
+
+/*footer*/
+#footer{
+    font-weight: 600;
+    padding-bottom: 1em;
+    margin-top: 3em;
+}
+#footer hr{
+    border-bottom: none;
+    border-top: rgb(17, 149, 189) solid 2px;
+}
+#footer_title{
+    font-size: 1.3em;
+    margin-bottom: 1em;
+    padding-bottom: .3em;
+    color: black;
+    border-bottom: black solid 2px;
+}
+#l_pic, #r_pic{
+    width: 50%;
+    float: left;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    line-height: 1.7em;
+    font-size: .9em;
+    text-align: center;
+}
+#l_pic img, #r_pic img{
+    margin-bottom: 1em;
+}
+#l_pic a, #r_pic a{
+    color:  rgb(0, 144, 211);
+    font-weight: 400;
+}
+#l_pic a:hover, #r_pic a:hover{
+    color: rgb(0, 144, 211);
+}
+#l_pic{
+    padding-right: 5%;
+}
+#r_pic{
+    padding-left: 5%;
+}
+/**/
+
+/* RWD閮剖�� */
+@media screen and (max-width: 1100px){
+    .CP{
+        padding: 1.5em 3em 0 3em;
+    }
+    #title{
+        font-size: 1.8em;
+    }
+}
+@media screen and (max-width: 900px){
+    .CP{
+        padding: 0 3em;
+    }
+    #title{
+        font-size: 1.7em;
+        padding-top: 1em;
+        margin-bottom: .5em;
+    }
+
+}
+@media screen and (max-width: 700px){
+    body{
+        line-height: 1.75em;
+        font-size: 1.2em;
+    }
+    .CP{
+        padding: 1.5em 2em 0 2em;
+    }
+    .headline1{
+        font-size: 1.6em;
+    }
+    .headline2{
+        font-size: 1.3em;
+    }
+}
+@media screen and (max-width: 600px){
+    .CP{
+        padding: 1.5em 1em 0 1em;
+    }
+    #fv{
+        margin-bottom: 1em;
+        padding-top: 1em;
+    }
+    #title{
+        font-size: 1.6em;
+        line-height: 1.6em;
+    }
+    .headline1{
+        font-size: 1.4em;
+    }
+    .headline2{
+        font-size: 1.2em;
+    }
+    #last_link a{
+        font-size: 1.3em;
+        line-height: 1.6em;
+    }
+    #footer{
+        padding-bottom: 0em;
+        margin-top: 3em;
+    }
+}
+@media screen and (max-width:500px ){
+    body{
+        font-weight: 400;
+    }
+    #title{
+        font-size: 1.2em;
+        line-height: 1.6em;
+        letter-spacing: 1px;
+        margin-bottom: 0;
+    }
+    .part{
+        padding-bottom: 1em;
+    }
+}
+@media screen and (max-width: 450px){
+    #footer_title{
+        margin-bottom: 1em;
+    }
+    #l_pic, #r_pic{
+        width: 100%;
+        float: none;
+        line-height: 1.8em;
+        font-size: 1em;
+        margin-bottom: 2em;
+    }
+    #l_pic img, #r_pic img{
+        margin-bottom: .5em;
+        width: 100%;
+    }
+    #l_pic{
+        padding-right: 0;
+        border: none;
+    }
+    #r_pic{
+        padding-left: 0;
+    }
+}
