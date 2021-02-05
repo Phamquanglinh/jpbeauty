@@ -1,0 +1,249 @@
+/*CSS Reset*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    vertical-align: bottom;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+P {
+    line-height: 200%;
+}
+/* LP START*/
+
+body {
+    background-color: #3a3c58;
+}
+
+#CP {
+    background-color: #ffffff;
+    max-width: 1100px;
+    height: 100%;
+    margin: 0 auto;
+    font-family: Arial, "Microsoft JhengHei", "æ•ºæ ªï¿½ï¿½è¿¤æšºç…¾ï¿½ï¿½", sans-serif;
+    text-align: justify;
+    text-align: left;
+    box-shadow: 0px 0 30px 0 #a293d1;
+    -webkit-box-shadow: 0px 0 30px 0 #a293d1;
+}
+
+#inner {
+    padding: 1em 6em 2em 6em;
+    font-size: 17px;
+}
+
+#PC_top {
+    display: block;
+    width: 100%;
+    padding-top: 20px;
+    margin-bottom: 0px;
+}
+
+#SP_top {
+    display: none;
+}
+
+#header {
+    text-align: left;
+    width: 100%;
+}
+
+#header_title p{
+    font-size: 2.8em;
+    color: rgba(0, 0, 0, 1.00);
+    font-weight: bold;
+    line-height: 150%;
+    text-align: left;
+    word-break: break-all;
+    font-family: 'Noto Serif TC', serif;
+}
+
+.part {
+    margin-bottom: 4em;
+    font-size: 18pt;
+}
+
+.note {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-size: 18pt;
+    color: #868686;
+    text-align: center;
+}
+
+
+/*link & mark*/
+
+.last_link {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.last_part {
+    margin-bottom: 6em;
+}
+
+#link {
+    font-size: 2.5em;
+    font-weight: bolder;
+}
+
+#memo {
+    font-size: 14px;
+    color: #868686;
+    font-weight: normal;
+}
+
+span{
+    /* background-color:  #fffda4; */
+    font-weight: bolder;
+}
+
+a:hover {
+    color: #6495D0;
+}
+
+.clear {
+    clear: both;
+}
+/**RWD**/
+
+@media screen and (max-width: 1200px) {
+    #inner {
+        padding: 1em 4em 2em 4em;
+    }
+    #header_title p{
+        font-size: 2.5em;
+    }
+    @media screen and (max-width: 950px) {
+        #inner {
+            padding: 1em 2em 2em 2em;
+        }
+        #header {
+            max-width: 100%;
+        }
+        #header_title p{
+            font-size: 2.5em;
+        }
+        .block_1A {
+            margin-top: 1em;
+            margin-bottom: 1em;
+            width: 90%;
+            padding: 0.5em 0.5em 0.5em 0.5em;
+        }
+        .txt_1A {
+            font-size: 1.4em;
+        }
+        .block_1B {
+            width: 95%;
+            padding: 0.5em 0.3em 0.5em 0.3em;
+        }
+        .txt_1B {
+            font-size: 1em;
+        }
+        .mark3 {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #2e2c92;
+        }
+    }
+    @media screen and (max-width: 745px) {
+        .part {
+            margin-bottom: 2em;
+            font-size: 14;
+        }
+    }
+    @media screen and (max-width: 680px) {
+        #inner {
+            font-size: 16px;
+        }
+    }
+    @media screen and (max-width: 670px) {
+        #header {
+            max-width: 100%;
+        }
+    }
+    @media screen and (max-width: 600px) {
+        #link {
+            font-size: 1.3em;
+        }
+        #inner {
+            padding: 0.5em 1.3em 2em 1.3em;
+        }
+    }
+    @media screen and (max-width: 570px) {
+        .part {
+            margin-bottom: 2em;
+            font-size: 14pt;
+        }
+        #header_title p{
+            font-size: 3em;
+            line-height: 1.5;
+        }
+    }
+    @media screen and (max-width: 500px) {
+        #PC_top {
+            display: none;
+        }
+        #SP_top {
+            display: block;
+            width: 100%;
+            padding-top: 20px;
+            margin-bottom: 20px;
+        }
+        #header_title p{
+            font-size: 2em;
+            line-height: 1.5;
+        }
+        #inner {
+            padding: 0em 1.3em 2em 1.3em;
+        }
+        #link {
+            font-size: 1.3em;
+            line-height: 160%;
+        }
+        .part {
+            margin-bottom: 2em;
+            font-size: 14pt;
+        }
+
+        .note {
+            margin-top: 0px;
+            margin-bottom: 5px;
+            font-size: 12pt;
+
+        }
+    }
+    @media screen and (max-width: 375px) {
+        #header_title p{
+            font-size: 1.8em;
+            line-height: 1.5;
+        }
+        .last_link {
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+    }
+    @media screen and (max-width: 320px) {
+        #inner {
+            padding: 0em 1.3em 2em 1.3em;
+        }
+        .part {
+            margin-bottom: 2em;
+            font-size: 14pt;
+        }
+        #header_title p{
+            font-size: 1.5em;
+            line-height: 1.5;
+        }
+    }
+
+
+}
