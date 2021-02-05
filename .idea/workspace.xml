@@ -10,9 +10,8 @@
       <change beforePath="$PROJECT_DIR$/html_1/assets/images/06.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html_1/assets/images/07.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html_1/assets/images/08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_1/assets/images/09.JPG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html_1/assets/images/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_1/assets/images/11.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_1/assets/images/11.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html_1/assets/images/12.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html_1/assets/images/13.gif" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html_1/assets/images/234.gif" beforeDir="false" />
@@ -20,6 +19,7 @@
       <change beforePath="$PROJECT_DIR$/html_1/assets/images/Jack Sax.gif" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html_1/assets/images/Jack-Sax-2.gif" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html_1/assets/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_1/assets/images/kome.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html_1/assets/images/rating.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html_2/assets/images/06.gif" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html_2/assets/images/08-2.gif" beforeDir="false" />
@@ -30,10 +30,11 @@
       <change beforePath="$PROJECT_DIR$/html_2/assets/images/2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html_2/assets/images/234.gif" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html_2/assets/images/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_2/assets/images/4.JPG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html_2/assets/images/46.gif" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html_2/assets/images/49.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_2/assets/images/5.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_2/assets/images/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_2/assets/images/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_2/assets/images/8.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html_2/assets/images/9.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html_2/assets/images/bg.jpg" beforeDir="false" />
     </list>
@@ -68,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612493898795</updated>
-      <workItem from="1612493900062" duration="1279000" />
+      <workItem from="1612493900062" duration="1638000" />
     </task>
     <servers />
   </component>
