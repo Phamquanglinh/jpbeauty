@@ -10,7 +10,8 @@ img {
     width: 100%;
     height: auto;
     margin: 0 auto;
-    margin-bottom: 10px;
+    margin-top: 10px;
+
 }
 
 P {
@@ -20,6 +21,7 @@ P {
 
 body {
     background-color: #3a3c58;
+    font-family: '微軟正黑體','Arial','Microsoft JhengHei',sans-serif;
 }
 
 #CP {
@@ -27,7 +29,6 @@ body {
     max-width: 1100px;
     height: 100%;
     margin: 0 auto;
-    font-family: ' 微軟正黑體';
     text-align: justify;
     text-align: left;
     box-shadow: 0px 0 30px 0 #a293d1;
@@ -62,7 +63,6 @@ body {
     line-height: 150%;
     text-align: left;
     word-break: break-all;
-    font-family: ' 微軟正黑體';
 }
 
 .part {
@@ -71,7 +71,7 @@ body {
 }
 
 .note {
-    margin-top: 0px;
+    margin-top: 0;
     margin-bottom: 20px;
     font-size: 18pt;
     color: #868686;
