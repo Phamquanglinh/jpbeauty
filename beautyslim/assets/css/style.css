@@ -1,0 +1,232 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+    margin: 0;
+    padding: 0;
+    vertical-align: bottom;
+}
+img{
+    width: 100%;
+    height: auto;
+    margin: 10px 0%;
+}
+
+.title{
+    text-align: center;
+}
+a{
+    word-wrap: break-word;
+}
+a:hover{
+    opacity: 0.8;
+}
+.clear{
+    clear: both;
+}
+body{
+    background-color: rgb(255, 238, 221);
+    font-family: '微軟正黑體';
+    font-weight: 300;
+}
+#CP{
+    background-color: white;
+    max-width: 1100px;
+    margin: 0 auto;
+    -webkit-box-shadow: 0px 0px 29px -1px rgba(81, 76, 51, 0.83);
+    box-shadow: 0px 0px 29px -1px rgba(81, 72, 51, 0.83);
+}
+.inner{
+    max-width: 850px;
+    padding: 20px;
+    margin: 0 auto;
+    /*border: red solid thin;*/
+}
+.part{
+    margin-bottom: 4em;
+}
+
+/**標籤**/
+#label{
+    width: 250px;
+    height: 60px;
+    background-color: rgb(157, 134, 184);
+    -webkit-clip-path: polygon(0% 0%, 85% 0%, 100% 50%,85% 100%,0% 100%);
+    margin-top: 30px 0 0 0;
+    position: absolute;
+    margin: 30px 0 0 0;
+}
+#label p{
+    color: white;
+    font-size: 1.4em;
+    margin: 0.6em 2em;
+}
+/**/
+
+
+/*文字設定*/
+.part p, .part img{
+    font-size: 1.3em;
+    text-align: justify;
+    line-height: 2.1em;
+    /* margin-bottom: 30px; */
+}
+
+
+/* text-color */
+
+.bolder{
+    font-weight: 600;
+    font-size: xx-large;
+}
+
+.goldText{
+    color:rgb(231, 197, 3);
+    font-weight: 500;
+    font-size: larger;
+}
+
+.redText{
+    color:rgb(238, 0, 0);
+    font-weight: 500;
+    font-size: larger;
+}
+
+.blueText{
+    color:rgb(0, 143, 226);
+}
+
+.grayText{
+    color:rgb(150, 149, 149);
+    font-size: 1.1rem;
+}
+
+.txtHighlight{
+    background-color: rgba(255, 241, 42, 0.932);
+    font-weight: 500;
+    font-size: larger;
+}
+
+
+/* end */
+
+#pc_title{
+    display: block;
+}
+#mb_title{
+    display: none;
+}
+.title{
+    margin-top: 2.3em;
+    font-weight: 700;
+    font-size: 2.8em;
+    margin-bottom: 1em;
+}
+
+
+/**RWD**/
+@media screen and (max-width: 1024px){
+    .title{
+        font-size: 2.8em;
+    }
+    .part p, .part img{
+        font-size: 2em;
+        text-align: justify;
+        line-height: 2.1em;
+        /* margin-bottom: 30px; */
+    }
+
+}
+@media screen and (max-width: 850px){
+    .title{
+        font-size: 2.5em;
+    }
+
+    .comment{
+        margin-bottom: 40px;
+    }
+}
+@media screen and (max-width: 700px){
+    #label{
+        /* width: 180px; */
+        height: 50px;
+    }
+    #label p{
+        font-size: 1.3em;
+        margin: 0.5em 2em;
+    }
+    #date{
+        display: none;
+    }
+    .title{
+        font-size: 2.2em;
+    }
+    .part{
+        margin-bottom: 40px;
+    }
+    #footer{
+        padding: 40px 0;
+    }
+    #footer p{
+        color: rgb(102, 114, 95);
+        margin-bottom: 0px;
+        font-size: 1.1em;
+        line-height: 1.6em;
+    }
+    .comment_l, .comment_r{
+        padding: 20px 20px;
+    }
+}
+@media screen and (max-width: 670px){
+    .part p{
+        font-size: 1.2em;
+        line-height: 1.8em;
+        margin-bottom: 30px;
+    }
+    .part hr{
+        margin-bottom: 3em;
+    }
+    #footer{
+        padding: 30px 0;
+    }
+    .comment{
+        margin-bottom: 40px;
+    }
+    .txt_l{
+        font-size: 1.2em;
+    }
+    .txt_pink{
+        font-size: 1.8em;
+    }
+}
+@media screen and (max-width: 560px){
+    body{
+        font-weight: 400;
+    }
+    .imgs{
+        width: 100%;
+        margin: 10px 0%;
+    }
+    .imgm{
+        width: 100%;
+        margin: 10px 0%;
+    }
+    #label{
+        margin: 20px 0 0 0;
+    }
+    .title{
+        font-size: 1.6em;
+    }
+    .part p, .part img{
+        margin-bottom: 25px;
+    }
+    .part hr{
+        margin-top: -1em;
+        margin-bottom: 3em;
+    }
+    #pc_title{
+        display: none;
+    }
+    #mb_title{
+        display: block;
+    }
+}
